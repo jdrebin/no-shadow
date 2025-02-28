@@ -1,0 +1,9 @@
+{
+  "name": "@jdrebin/no-shadow",
+  "license": "MIT",
+  "version": "0.0.1",
+  "exports": "./plugin.ts",
+  "lint": {
+    "plugins": ["./plugin.ts"]
+  }
+}
